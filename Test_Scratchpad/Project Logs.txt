@@ -5,7 +5,6 @@ Asked a few pointed questions
 Watched a couple of videos on grid layout to fill in some knowledge gaps
 	https://www.youtube.com/watch?v=pOY_nSkX8Rw
 	https://youtu.be/1phTiu_qtik?si=HSPPshEYVSyiWgz0
-
 	
 
 Started drafting up card prefabs

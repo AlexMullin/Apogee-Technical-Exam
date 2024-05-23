@@ -13,7 +13,21 @@ MonoBehaviour:
   m_Name: Card Data
   m_EditorClassIdentifier: 
   cards:
-  - dpMin: 0
-    dpMax: 0
-    apMin: 0
-    apMax: 0
+  - cardColorBase: {r: 1, g: 0, b: 0, a: 1}
+    cardColorSelected: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    dpMin: 1
+    dpMax: 9
+    apMin: 1
+    apMax: 9
+  - cardColorBase: {r: 0, g: 1, b: 0, a: 1}
+    cardColorSelected: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    dpMin: 1
+    dpMax: 9
+    apMin: 1
+    apMax: 9
+  - cardColorBase: {r: 0, g: 0, b: 1, a: 1}
+    cardColorSelected: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    dpMin: 1
+    dpMax: 9
+    apMin: 1
+    apMax: 9
